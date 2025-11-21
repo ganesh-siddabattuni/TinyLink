@@ -1,4 +1,4 @@
-const API_BASE = 'http://localhost:5000';
+const API_BASE = 'https://tinylink-jrcw.onrender.com';
 
 // 1. Get all links
 export const getLinks = async () => {
